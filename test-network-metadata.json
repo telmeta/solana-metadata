@@ -2,7 +2,7 @@
     "name": "Soldo Coin",
     "symbol": "SOD",
     "description": "Soldo Coin, create, mint, distribute, and sell.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/telmeta/solana-metadata/main/images/image.png",
     "attributes": [
       {
         "trait_type": "Item",
