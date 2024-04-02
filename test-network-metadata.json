@@ -1,12 +1,20 @@
 {
-    "name": "Soldo Coin",
-    "symbol": "SOD",
-    "description": "Soldo Coin, create, mint, distribute, and sell.",
-    "image": "https://raw.githubusercontent.com/telmeta/solana-metadata/main/images/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Telmeta Portal"
-      }
-    ]
-  }
+  "name": "Soldo Coin",
+  "symbol": "SOD",
+  "description": "Soldo Coin, create, mint, distribute, and sell.",
+  "image": "https://raw.githubusercontent.com/telmeta/solana-metadata/main/images/image.png",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://example.com",
+    "telegram": "https://example.com",
+    "discord": "https://example.com",
+    "coingeckoId": "https://example.com",
+    "medium": "https://example.com"
+  },
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Telmeta Portal"
+    }
+  ]
+}
