@@ -11,10 +11,12 @@
     "coingeckoId": "https://example.com",
     "medium": "https://example.com"
   },
-  "attributes": [
-    {
-      "trait_type": "Item",
-      "value": "Telmeta Portal"
-    }
+  "additionalMetadata:": [
+    ["website", "https://example.com"],
+    ["twitter", "https://example.com"],
+    ["telegram", "https://example.com"],
+    ["discord", "https://example.com"],
+    ["coingeckoId", "https://example.com"],
+    ["medium", "https://example.com"]
   ]
 }
